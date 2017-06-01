@@ -22,7 +22,7 @@
 		<dependency>
 			<groupId>com.bakerbeach.market</groupId>
 			<artifactId>market-commons</artifactId>
-			<version>[1.0.0,1.1.0)</version>
+			<version>[3.0.0,4.0.0)</version>
 		</dependency>
     </dependencies>
 	<build>
